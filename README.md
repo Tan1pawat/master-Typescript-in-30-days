@@ -1,3 +1,7 @@
+# Ref From
+https://www.w3schools.com/typescript/
+https://www.typescriptlang.org/docs/
+
 # TypeScript Mastery Program: 1-Month Plan
 
 ### Program Overview

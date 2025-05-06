@@ -1,2 +1,3 @@
 ### follow with
-https://github.com/Tan1pawat/master-Typescript-in-30-days
+https://www.w3schools.com/typescript/
+https://www.typescriptlang.org/docs/
